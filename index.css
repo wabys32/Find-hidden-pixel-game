@@ -1,0 +1,19 @@
+#title{
+    font-family: Roboto, sans-serif;
+    width: 60%;
+    height: 40%;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    pointer-events: none;
+    font-size: 1.7vmin;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
